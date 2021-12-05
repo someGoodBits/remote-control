@@ -3,6 +3,7 @@ With this app you can control the mouse and keyboard inputs from a mobile phone 
 
 # Installation
 
+- Clone the repo from https://github.com/someGoodBits/remote-control
 - First run ```npm install``` to install all required libraries
 - To start the app run ```npm start``` or ```npm run dev```
 - connect a mobile on same network as the computer and go to ```http://{ip-of-pc}:3003```
